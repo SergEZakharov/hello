@@ -1,1 +1,2 @@
 Hello git!
+https://github.com/web-standards-ru/dictionary
