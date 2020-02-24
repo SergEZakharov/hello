@@ -2,3 +2,4 @@ https://github.com/web-standards-ru/dictionary
 новая строка
 Другая строка
 Hello, world!
+Hello, git
