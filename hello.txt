@@ -3,3 +3,4 @@ https://github.com/web-standards-ru/dictionary
 Другая строка
 Hello, world!
 Hello, git
+Hello, git rebase
